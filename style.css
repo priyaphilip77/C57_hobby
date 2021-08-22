@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #ead3ed;
+}
+
+
+.important {
+    height: 900px;
+    font-family: cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, red, orange, pink, #7ae682, #9cd3d9, #b3a8ed, violet);
+    color: floralwhite;
+    padding: 30px;
+}
+
+
+h1 {
+    color: #26a364;
+    font-family: cursive;
+    text-shadow: 2px 2px green;
+}
+
+
+h3 {
+    color: #26a364;
+    font-family: sans-serif font-weight: bold;
+    font-size: 30px;
+}
+
+
+p {
+    color: #26a364;
+    font-size: 20px;
+}
+
+
+.line {
+    background-color: green;
+    width: 120px;
+    height: 5px;
+    margin: 8px auto;
+}
+
+
+img {
+    border-radius: 5%;
+}
